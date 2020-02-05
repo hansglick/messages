@@ -1,0 +1,10 @@
+{'BatchDate': '2020-02-04 15:00:51', 'StartingDate': '2020-02-04 14:55:22', 'EndingDate': '2020-02-04 15:00:45', 'Delay': '0h5min', 'nRT': 1072, 'nInf': 379, 'nFam': 413, 'nUse': 950}
+{'BatchDate': '2020-02-04 15:15:17', 'StartingDate': '2020-02-04 15:00:46', 'EndingDate': '2020-02-04 15:15:10', 'Delay': '0h14min', 'nRT': 2922, 'nInf': 741, 'nFam': 866, 'nUse': 2423}
+{'BatchDate': '2020-02-04 15:58:59', 'StartingDate': '2020-02-04 15:15:10', 'EndingDate': '2020-02-04 15:58:51', 'Delay': '0h43min', 'nRT': 8350, 'nInf': 1423, 'nFam': 1754, 'nUse': 6560}
+{'BatchDate': '2020-02-04 16:21:13', 'StartingDate': '2020-02-04 15:58:52', 'EndingDate': '2020-02-04 16:21:07', 'Delay': '0h22min', 'nRT': 4038, 'nInf': 898, 'nFam': 1074, 'nUse': 3356}
+{'BatchDate': '2020-02-04 17:52:15', 'StartingDate': '2020-02-04 16:21:07', 'EndingDate': '2020-02-04 17:52:05', 'Delay': '1h30min', 'nRT': 20900, 'nInf': 2560, 'nFam': 3324, 'nUse': 15568}
+{'BatchDate': '2020-02-04 20:00:15', 'StartingDate': '2020-02-04 17:52:05', 'EndingDate': '2020-02-04 20:00:04', 'Delay': '2h7min', 'nRT': 34333, 'nInf': 3675, 'nFam': 4887, 'nUse': 23962}
+{'BatchDate': '2020-02-05 00:33:06', 'StartingDate': '2020-02-04 20:00:04', 'EndingDate': '2020-02-05 00:32:56', 'Delay': '4h32min', 'nRT': 6468, 'nInf': 1407, 'nFam': 1696, 'nUse': 5153}
+{'BatchDate': '2020-02-05 01:15:43', 'StartingDate': '2020-02-05 00:32:57', 'EndingDate': '2020-02-05 01:15:33', 'Delay': '0h42min', 'nRT': 4890, 'nInf': 1149, 'nFam': 1406, 'nUse': 3789}
+{'BatchDate': '2020-02-05 01:29:30', 'StartingDate': '2020-02-05 01:15:33', 'EndingDate': '2020-02-05 01:29:17', 'Delay': '0h13min', 'nRT': 1166, 'nInf': 439, 'nFam': 496, 'nUse': 966}
+{'BatchDate': '2020-02-05 03:05:02', 'StartingDate': '2020-02-05 01:29:20', 'EndingDate': '2020-02-05 03:04:44', 'Delay': '1h35min', 'nRT': 4942, 'nInf': 1204, 'nFam': 1489, 'nUse': 3585}
